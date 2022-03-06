@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://dwelsh:Toby!247@cluster0.hg3mk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", 
+    "githubClientId": "0182cce17c49e5a5eb99", 
+    "githubSecret": "356c62c9c190c50ee78ea15b1a101d11bee4065e"
+}
